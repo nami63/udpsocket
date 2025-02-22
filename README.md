@@ -9,5 +9,4 @@ This project implements a **UDP socket communication** system using **Winsock** 
 - Handles **basic error handling**.
 - Works on **Windows** using **Winsock API**.
 
-## 📂 Project Structure
 
